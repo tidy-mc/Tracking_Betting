@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0', // This will bind to both IPv4 and IPv6
-    port: 5173,
+    port: 3000,
   },
 })
